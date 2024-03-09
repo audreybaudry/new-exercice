@@ -1,4 +1,4 @@
-# new-exercice
+REMOTE
 
 Bonjour
 Ceci est un exercice.
